@@ -1,7 +1,7 @@
 # ETD-Globe
 
 🌍 ETD Globe — Earth Temperature Detective Globe
-
+<img src= "image/NASA_logo.width-580.png" width=250>
 An interactive way to explore Earth's temperature patterns through data analysis and a 3D globe.
 
 ETD Globe is a data-driven project developed for the 2026 NASA Space Apps Challenge, under the challenge “Be an Earth System Trend Detective.”
