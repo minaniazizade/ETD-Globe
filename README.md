@@ -65,6 +65,8 @@ The sample is provided to help users understand the dataset structure, inspect t
 The analysis described in this project is based on the larger dataset used during development, not only on the small sample CSV included in the repository.
 
 Data Source: (https://disc.gsfc.nasa.gov/datasets/M2IMNXASM_5.12.4/summary)
+
+![](image/d.png)  
 ---
 
 🧹 Data Preprocessing
@@ -164,6 +166,10 @@ Challenge: Be an Earth System Trend Detective
 Project: ETD Globe — Earth Temperature Detective Globe
 
 ETD Globe aims to turn environmental data into an accessible and interactive experience, helping people explore Earth's temperature patterns and better understand the complexity of our planet's systems.
+
+![](image/3.png)
+![](image/1.png)
+![](image/2.png)
 
 ---
 
