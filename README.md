@@ -64,14 +64,7 @@ The sample is provided to help users understand the dataset structure, inspect t
 
 The analysis described in this project is based on the larger dataset used during development, not only on the small sample CSV included in the repository.
 
-Data Source
-
-The following GitHub profile is provided as the project and data reference:
-
-"GitHub — minaniazizade" (https://github.com/minaniazizade)
-
-Note: This link points to the GitHub profile. A direct dataset or repository link can be added here when available.
-
+Data Source: (https://disc.gsfc.nasa.gov/datasets/M2IMNXASM_5.12.4/summary)
 ---
 
 🧹 Data Preprocessing
