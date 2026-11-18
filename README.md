@@ -1,4 +1,4 @@
-# ETD-Globe
+# Nasa Space Apps Challenge 2026
 
 🌍 ETD Globe — Earth Temperature Detective Globe
 <img src= "image/NASA_logo.width-580.png" width=250>
